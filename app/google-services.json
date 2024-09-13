@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317064919901",
+    "project_id": "localartisthub",
+    "storage_bucket": "localartisthub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317064919901:android:73f1ea9a5480ed126ac6b4",
+        "android_client_info": {
+          "package_name": "com.example.localartisthub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpvbvj7t2LrYT8iXETNgiI-6jXZmXwqvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
